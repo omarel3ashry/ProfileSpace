@@ -54,9 +54,9 @@ class ProfilesFragment : Fragment() {
     private fun setupViewModelObservers() {
         viewModel.profiles.observe(viewLifecycleOwner) { profiles ->
             if (profiles != null) {
+                profileAdapter.submitList(profiles)
                 if (profiles.isNotEmpty()) {
                     binding.noProfilesTV.visibility = View.GONE
-                    profileAdapter.submitList(profiles)
                 } else binding.noProfilesTV.visibility = View.VISIBLE
             } else Log.d("ProfilesFragment", "unexpected error!")
         }
