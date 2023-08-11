@@ -8,10 +8,14 @@ Using Clean Architecture.
 - [Libraries Used](#libraries-used)
 
 ## Preview
-![Demo](https://github.com/omarel3ashry/ProfileSpace/blob/master/art/demo.gif)
-<img src="https://github.com/omarel3ashry/ProfileSpace/blob/master/art/screen_0.jpg" width="348">
-<img src="https://github.com/omarel3ashry/ProfileSpace/blob/master/art/screen_1.jpg" width="348">
-<img src="https://github.com/omarel3ashry/ProfileSpace/blob/master/art/screen_2.jpg" width="348">
+<p float="left">
+<img src="https://github.com/omarel3ashry/ProfileSpace/blob/master/art/demo.gif" width="250">
+<img src="https://github.com/omarel3ashry/ProfileSpace/blob/master/art/screen_0.jpg" width="250">
+</p>
+<p float="left">
+<img src="https://github.com/omarel3ashry/ProfileSpace/blob/master/art/screen_1.jpg" width="250">
+<img src="https://github.com/omarel3ashry/ProfileSpace/blob/master/art/screen_2.jpg" width="250">
+</p>
 
 ## Libraries Used
 
